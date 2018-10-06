@@ -17,4 +17,4 @@ int main()
 	return 0;
 }
 //each time do ans+=(t[i]-t[i-1]-l[i-1])/a
-//according to the given condition t[i]>=t[i-1]+l[i-1],it's not causing any mistake.
+//according to the given condition t[i]>=t[i-1]+l[i-1],it's not causing any mistake
